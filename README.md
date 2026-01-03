@@ -5,7 +5,7 @@ All computations are carried out in Python.
 
 ## 🚀 Start directly with Binder (may take some time)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/Setzstrategien/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/chip-clearing-strategies/HEAD)
 
 ---
 
